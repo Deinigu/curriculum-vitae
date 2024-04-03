@@ -2,11 +2,6 @@
 
 This repository contains my Curriculum Vitae (CV) hosted using GitHub Pages.
 
-## Contents
-
-- [Description](#description)
-- [Usage](#usage)
-
 ## Description
 
 This repository serves as a platform to host and share my Curriculum Vitae. The CV is available in HTML format and is hosted using GitHub Pages for easy access.
