@@ -5,7 +5,6 @@ This repository contains my Curriculum Vitae (CV) hosted using GitHub Pages.
 ## Contents
 
 - [Description](#description)
-- [Files](#files)
 - [Usage](#usage)
 
 ## Description
